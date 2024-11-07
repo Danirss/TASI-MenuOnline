@@ -1,0 +1,51 @@
+ID,CEP,ENDERECO,NUMERO,BAIRRO,CIDADE,COMPLEMENTO,ESTADO
+1,1234501,Rua José Campanella,10,Jardim SÃ£o Paulo,Guarulhos,Casa 1,SP
+2,1234502,Rua Dona Tecla,20,Vila Augusta,Guarulhos,Bloco B,SP
+3,1234503,Rua Capitão Gabriel,30,Centro,Guarulhos,Bloco C,SP
+4,1234504,Rua Tapajós,40,Vila Galvão,Guarulhos,Casa 2,SP
+5,1234505,Rua Nadir,50,Gopoúva,Guarulhos,Sala 4,SP
+6,1234506,Rua Jamil João Zarif,60,Vila Progresso,Guarulhos,Loja 3,SP
+7,1234507,Rua Cabo António Pereira da Silva,70,Jardim Cumbica,Guarulhos,Bloco B,SP
+8,1234508,Rua Gabriel António Rodrigues,80,Jardim Flor da Montanha,Guarulhos,Bloco C,SP
+9,1234509,Rua Cariri-Açu,90,Vila Barros,Guarulhos,Apto 302,SP
+10,1234510,Rua António Marcos Pavanello,100,Parque Continental,Guarulhos,Subsolo,SP
+11,1234511,Rua José Brumatti,110,Vila Tijuco,Guarulhos,Box 5,SP
+12,1234512,Rua dos Ferroviários,120,Vila Pedro Moreira,Guarulhos,Térreo,SP
+13,1234513,Rua Felício Marcondes,130,Centro,Guarulhos,Apto 302,SP
+14,1234514,Rua Diogo Botelho,140,Parque Cecap,Guarulhos,Casa 1,SP
+15,1234515,Rua Domingos Furlan,150,Vila Augusta,Guarulhos,Térreo,SP
+16,1234516,Rua José Tronco,160,Jardim Pinhal,Guarulhos,Box 5,SP
+17,1234517,Rua Guaicurus,170,Jardim Presidente Dutra,Guarulhos,Cobertura,SP
+18,1234518,Rua Madre Paula de São José,180,Centro,Guarulhos,Casa 2,SP
+19,1234519,Rua Andorra,190,Jardim Santa Mena,Guarulhos,Casa 2,SP
+20,1234520,Rua Alípio Ferreira,200,Jardim Moreira,Guarulhos,Sobreloja,SP
+21,1234521,Rua Cachoeira,210,Jardim Iporanga,Guarulhos,Bloco B,SP
+22,1234522,Rua Nova Guarulhos,220,Jardim Nova Guarulhos,Guarulhos,Subsolo,SP
+23,1234523,Rua Uruana,230,Jardim Santa Clara,Guarulhos,Subsolo,SP
+24,1234524,Rua Jequitibá,240,Jardim Arapongas,Guarulhos,Sala Comercial,SP
+25,1234525,Rua Princesa Isabel,250,Jardim Tranquilidade,Guarulhos,Sobreloja,SP
+26,1234526,Rua Soldado José Lopes,260,Jardim Cocaia,Guarulhos,Apto 101,SP
+27,1234527,Rua Monteiro Lobato,270,Centro,Guarulhos,Anexo,SP
+28,1234528,Rua Isabel Ramos,280,Vila São João Batista,Guarulhos,Cobertura,SP
+29,1234529,Rua Varginha,290,Jardim Bela Vista,Guarulhos,Sala 4,SP
+30,1234530,Rua Julia Lourenço Fogaça,300,Jardim Santa Francisca,Guarulhos,Fundos,SP
+31,1234531,Rua Professor João Cavalheiro Salem,310,Jardim Maia,Guarulhos,Anexo,SP
+32,1234532,Rua Aluízio de Azevedo,320,Jardim Cumbica,Guarulhos,Bloco C,SP
+33,1234533,Rua Buenos Aires,330,Vila Augusta,Guarulhos,Térreo,SP
+34,1234534,Rua Sete de Setembro,340,Centro,Guarulhos,Térreo,SP
+35,1234535,Rua Manacá da Serra,350,Jardim Paraventi,Guarulhos,Apto 202,SP
+36,1234536,Rua Ouro Preto,360,Vila Rosália,Guarulhos,Subsolo,SP
+37,1234537,Rua Capitão Sene,370,Vila Galvão,Guarulhos,Sala Comercial,SP
+38,1234538,Rua Aparecida,380,Jardim Santa Cecília,Guarulhos,Loja 3,SP
+39,1234539,Rua José Basile,390,Jardim Bananal,Guarulhos,Sala Comercial,SP
+40,1234540,Rua Ipê,400,Vila Nova Bonsucesso,Guarulhos,Apto 202,SP
+41,1234541,Rua São Vicente de Paula,410,Jardim São Geraldo,Guarulhos,Sala 4,SP
+42,1234542,Rua Orivaldo Almeida,420,Jardim Adriana,Guarulhos,Casa 1,SP
+43,1234543,Rua Piza e Almeida,430,Jardim Las Vegas,Guarulhos,Galpão,SP
+44,1234544,Rua General Aldévio Barbosa de Lemos,440,Jardim São Judas Tadeu,Guarulhos,Cobertura,SP
+45,1234545,Rua Estela Veloso da Silveira,450,Jardim Bom Clima,Guarulhos,Térreo,SP
+46,1234546,Rua Jorge Street,460,Jardim Barbosa,Guarulhos,Loja 3,SP
+47,1234547,Rua Gabriel Saraiva de Andrade,470,Parque Continental,Guarulhos,Anexo,SP
+48,1234548,Rua Visconde de Cairu,480,Jardim Guaracy,Guarulhos,Galpão,SP
+49,1234549,Rua Soldado Francisco Franco,490,Jardim Cumbica,Guarulhos,Casa 2,SP
+50,1234550,Rua Borges de Figueiredo,500,Vila Moreira,Guarulhos,Térreo,SP
